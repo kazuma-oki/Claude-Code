@@ -295,4 +295,4 @@ GSC のデータが返ってきたら**セットアップ完了**。
 
 - GCPプロジェクトID: `iron-axon-162706`
 - サービスアカウント: `ga4-mcp-server@iron-axon-162706.iam.gserviceaccount.com`
-- キーファイル（メイン端末）: `C:\Users\kazug\.claude\GSCMCP接続\.claude\gsc-key\iron-axon-162706-69c5fb3aef9f.json`
+- キーファイルのパスはスキル起動時にユーザーへ確認する（「サービスアカウントキー (.json) のフルパスを教えてください」）
