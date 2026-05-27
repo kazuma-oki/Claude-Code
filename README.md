@@ -123,17 +123,14 @@ version:
 ├── .claude/
 │   ├── CLAUDE.md
 │   │   └── 全フォルダ共通（グローバル）
-│   │
 │   └── Skills/
 │       └── スキル名のフォルダ
 │           └── SKILL.md
 │
 └── my-project（作業フォルダ）
-    │
+    ├── CLAUDE.md
+    │   └── このプロジェクト内のみ適用
     └── .claude/
-        ├── CLAUDE.md
-        │   └── このプロジェクト内のみ適用
-        │
         └── Skills/
             └── スキル名のフォルダ
                 └── SKILL.md
