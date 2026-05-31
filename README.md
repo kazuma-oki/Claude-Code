@@ -93,7 +93,7 @@ user/.claude/skills/(スキル名のフォルダ)/SKILL.md
 ```
 
 ## SKILL.md の基本構成
-
+https://agentskills.io/specification
 ```md
 ---
 name: （フォルダ名）
